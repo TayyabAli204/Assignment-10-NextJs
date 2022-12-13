@@ -1,0 +1,39 @@
+.main{
+
+    background-color: #1C1C1C;
+    
+}
+.container{
+    width: 90%;
+    height: 50vh;
+    color: white;
+    display: flex;
+    margin-left: 40px;
+}
+.f1part{
+display: flex;
+justify-content: space-evenly;
+width: 70%;
+padding-top: 40px;
+list-style-type: none;
+line-height: 2rem;
+
+}
+.f2part{
+width: 30%;
+padding-top: 40px;
+list-style-type: none;
+color: #67CBAB;
+margin-left: 20%;
+line-height: 2rem;
+
+
+}
+
+.hrstyle{
+    border-top: 1px solid rgb(255, 255, 255);
+    width: 80%;
+    padding-bottom: 30px;
+margin-left: 6%;
+
+}

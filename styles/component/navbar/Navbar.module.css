@@ -1,0 +1,33 @@
+.navstyle {
+    display: flex;
+    background-color: #F9FAFD;
+}
+
+.container {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    list-style-type: none;
+    margin-left: 100px;
+
+
+}
+
+.navul {
+    display: flex;
+    list-style-type: none;
+    column-gap: 40px;
+    font-weight: bold;
+    margin-left: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.search {
+    border-style: none;
+    margin-left: 90px;
+    gap: 14px;
+    display: flex;
+
+}
+
